@@ -1,5 +1,5 @@
-## Hi there friend 👋
-
+## Hello there,friend 👋                                                                                                                                                                 meu nome é mariajameli
+sou estudante da alura                                                                                                                                                                estou utilizando esse espaço para compartilhar meus projetos                                                                                                                          Você pode entrar em contato comigo no email 00001105319702sp@.educacao.sp.gov.br
 <!--
 **mariajameli/mariajameli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
